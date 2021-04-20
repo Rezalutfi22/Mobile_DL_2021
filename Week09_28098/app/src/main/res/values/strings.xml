@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week09_28098</string>
+    <string name="action_settings">Hapus Semua</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
